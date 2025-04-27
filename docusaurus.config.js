@@ -64,7 +64,7 @@ const config = {
         },
         {to: '/blog', label: 'Knowledge Hub', position: 'left'},
         {
-          href: 'https://github.com/halguard/halguard-docs',
+          href: 'https://github.com/HalGuardTech/halguard-docs',
           label: 'GitHub',
           position: 'right',
         },
@@ -112,7 +112,7 @@ const config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/halguard/halguard-docs',
+              href: 'https://github.com/HalGuardTech/halguard-docs',
             },
           ],
         },
