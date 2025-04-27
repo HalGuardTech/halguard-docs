@@ -1,0 +1,16 @@
+#  Batch Analysis API
+
+Analyze pre-recorded audio files for synthetic voice detection.
+
+---
+
+## 🎯 Use Cases
+
+- KYC onboarding call analysis.  
+- Fraud investigation of stored call recordings.  
+- Retrospective compliance audits.
+
+---
+
+## 📡 Endpoint
+

@@ -1,0 +1,24 @@
+deepfakes:
+  label: Deepfakes
+  permalink: /tags/deepfakes
+  description: Content focused on deepfake technologies and threats.
+
+voice-cloning:
+  label: Voice Cloning
+  permalink: /tags/voice-cloning
+  description: Synthetic voice generation, cloning, and security risks.
+
+fraud-detection:
+  label: Fraud Detection
+  permalink: /tags/fraud-detection
+  description: AI-powered fraud prevention and detection strategies.
+
+biometrics:
+  label: Biometrics
+  permalink: /tags/biometrics
+  description: Analysis of traditional biometrics versus clone detection.
+
+security-best-practices:
+  label: Security Best Practices
+  permalink: /tags/security-best-practices
+  description: Practical advice on securing workflows against AI-generated threats.
