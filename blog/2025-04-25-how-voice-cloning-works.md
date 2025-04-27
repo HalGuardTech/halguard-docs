@@ -45,4 +45,3 @@ Voice cloning uses **Text-to-Speech (TTS)** models or **neural vocoders** to cre
 - GAN **spectrogram artifacts**.
 - Harmonic smoothing in **MFCC features**.
 
-✅ Explore how these signals are detected in [Biometrics vs. Clone Detection](./biometrics-vs-clone-detection.md).

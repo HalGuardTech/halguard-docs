@@ -61,9 +61,6 @@ HalGuard’s mission is simple: **Guard Reality. Defend Trust.**
 
 We’re here to keep you informed on the latest developments, detection techniques, and prevention strategies so that you can safeguard your organization from the rising tide of AI-driven fraud.
 
-🔗 **Explore our latest articles and deep dives below.**  
-👉 Start with: [Understanding Deepfakes →](../understanding-deepfakes)
-
 Thank you for being part of the mission to keep the world authentic.
 
 —

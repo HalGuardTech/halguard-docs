@@ -27,4 +27,3 @@ Deepfakes are synthetic media generated using AI models like **GANs (Generative 
 
 As deepfake generation tools improve, real-time detection becomes critical to prevent fraud, misinformation, and social engineering attacks.
 
-Stay tuned for the next post in this series: [How Voice Cloning Works](./how-voice-cloning-works).
